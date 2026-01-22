@@ -37,9 +37,9 @@
             label1.Font = new Font("Segoe UI", 15F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label1.Location = new Point(346, 162);
             label1.Name = "label1";
-            label1.Size = new Size(66, 28);
+            label1.Size = new Size(158, 28);
             label1.TabIndex = 0;
-            label1.Text = "Nome";
+            label1.Text = "Nome Completo";
             label1.Click += label1_Click;
             // 
             // Form1
