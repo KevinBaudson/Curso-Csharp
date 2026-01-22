@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="ConsoleAppDotNet/ConsoleAppDotNet.csproj" Id="7e5f64f3-28d6-420b-8a0b-6717626c1d7a" />
+  <Project Path="ConsoleAppNetFramework/ConsoleAppNetFramework.csproj" Id="f61a37fd-2ad6-4c68-b9a4-1cda6e7b7d47" />
+  <Project Path="FormsAppNetFramework/FormsAppNetFramework.csproj" Id="ede3f8f2-0a40-485f-9b8e-29e42c47345b" />
   <Project Path="OlaMundo/OlaMundo.csproj" />
 </Solution>
