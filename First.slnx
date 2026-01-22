@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="ConsoleAppDotNet/ConsoleAppDotNet.csproj" Id="7e5f64f3-28d6-420b-8a0b-6717626c1d7a" />
   <Project Path="ConsoleAppNetFramework/ConsoleAppNetFramework.csproj" Id="f61a37fd-2ad6-4c68-b9a4-1cda6e7b7d47" />
+  <Project Path="ConsoleAppTopLevel/ConsoleAppTopLevel.csproj" Id="738fb437-9fcc-4e7f-99f0-b9e933878e0d" />
   <Project Path="FormsAppNetFramework/FormsAppNetFramework.csproj" Id="ede3f8f2-0a40-485f-9b8e-29e42c47345b" />
   <Project Path="OlaMundo/OlaMundo.csproj" />
+  <Project Path="WindowsFormsAppDotNet/WindowsFormsAppDotNet.csproj" Id="4243b0ae-be2b-4959-8d6e-7e1dfedd495f" />
 </Solution>
