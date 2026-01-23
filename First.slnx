@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="../Variaveis/Variaveis.csproj" Id="09a9e5dc-cbba-48dd-b2b5-5dc3445b73ce" />
   <Project Path="ConsoleAppDotNet/ConsoleAppDotNet.csproj" Id="7e5f64f3-28d6-420b-8a0b-6717626c1d7a" />
   <Project Path="ConsoleAppNetFramework/ConsoleAppNetFramework.csproj" Id="f61a37fd-2ad6-4c68-b9a4-1cda6e7b7d47" />
   <Project Path="ConsoleAppTopLevel/ConsoleAppTopLevel.csproj" Id="738fb437-9fcc-4e7f-99f0-b9e933878e0d" />
