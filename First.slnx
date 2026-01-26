@@ -2,6 +2,7 @@
   <Project Path="CalcularIMC/CalcularIMC.csproj" Id="c0354d54-d620-4f1e-b534-b17e25cffe9c" />
   <Project Path="Colecao/Colecao.csproj" Id="71402619-f57d-4a42-b874-236b53486cc7" />
   <Project Path="Condicao/Condicao.csproj" Id="b520c2ba-8759-404c-bdd2-222930fb2cb7" />
+  <Project Path="ConsoleApp1/ClassesObjetos.csproj" Id="2163dc09-0cf5-4df1-9bb1-bfaa6e16b033" />
   <Project Path="ConsoleAppDotNet/ConsoleAppDotNet.csproj" Id="7e5f64f3-28d6-420b-8a0b-6717626c1d7a" />
   <Project Path="ConsoleAppNetFramework/ConsoleAppNetFramework.csproj" Id="f61a37fd-2ad6-4c68-b9a4-1cda6e7b7d47" />
   <Project Path="ConsoleAppTopLevel/ConsoleAppTopLevel.csproj" Id="738fb437-9fcc-4e7f-99f0-b9e933878e0d" />
