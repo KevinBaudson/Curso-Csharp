@@ -2,6 +2,13 @@
 
 📘 Repositório criado para acompanhar meu aprendizado em **C# .NET**, reunindo exercícios, exemplos e projetos desenvolvidos ao longo do curso.
 
+## Sobre o .NET
+
+Este projeto faz parte de um curso de C# que utiliza o .NET Framework.
+O foco está nos conceitos de lógica de programação e orientação a objetos.
+
+> Após a conclusão do curso, os conhecimentos serão atualizados para .NET moderno (.NET 6+).
+
 ## O que estou aprendendo
 
 - Desenvolver aplicações completas em C# .NET
