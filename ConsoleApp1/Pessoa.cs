@@ -13,9 +13,12 @@ namespace ClassesObjetos
         public string nome;
         public string sobrenome;
         public int anoNascimento;
-
-
-        
         #endregion
+
+        // Métodos simples
+        public void Cumprimentar()
+        {
+            Console.WriteLine("Olá eu sou " + nome + " " + sobrenome);
+        }
     }
 }

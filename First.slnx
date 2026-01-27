@@ -9,6 +9,9 @@
   <Project Path="EntradaSaida/EntradaSaida.csproj" Id="a1dc1274-9fb5-45f3-8348-a235478f7d05" />
   <Project Path="ExercicioInverterNomes/ExercicioInverterNomes.csproj" Id="b3da4e8d-0949-47a7-93cb-8dce68308a6a" />
   <Project Path="FormsAppNetFramework/FormsAppNetFramework.csproj" Id="ede3f8f2-0a40-485f-9b8e-29e42c47345b" />
+  <Project Path="Matematica/Matematica.csproj" Id="b6351699-3719-4fe0-b2fe-ce31cc91733a" />
+  <Project Path="MetodoConstrutor/MetodoConstrutor.csproj" Id="30d0f725-7c0c-44fb-9a9e-a2d13fb8eb4f" />
+  <Project Path="MetodoDasClasses/MetodoDasClasses.csproj" Id="93e189e6-0afa-4c33-9fdc-9da12a037262" />
   <Project Path="OlaMundo/OlaMundo.csproj" />
   <Project Path="Variaveis/Variaveis.csproj" Id="09a9e5dc-cbba-48dd-b2b5-5dc3445b73ce" />
   <Project Path="WindowsFormsAppDotNet/WindowsFormsAppDotNet.csproj" Id="4243b0ae-be2b-4959-8d6e-7e1dfedd495f" />
