@@ -2,9 +2,8 @@
 using POO;
 using System.ComponentModel;
 
-Console.WriteLine("Hello, World!");
 
-
+#region Encapsulamento
 Encapsulamento Conta = new Encapsulamento();
 
 Conta.Cliente = "João";
@@ -20,4 +19,18 @@ Conta.Sacar(valorSaque);
 
 // Resultado Saldo Atual
 Console.WriteLine($"Cliente: {Conta.Cliente}");
-Console.WriteLine($"Saldo: {Conta.Saldo}" ); 
+Console.WriteLine($"Saldo: {Conta.Saldo}" );
+
+#endregion
+
+#region Herança
+
+    //Carro carro = new Carro();
+    //Bicicleta bicicleta = new Bicicleta();
+    //carro.LigarMotor();
+    //bicicleta.Pedalar();
+
+    //carro.Acelerar();
+    //bicicleta.Parar();
+
+#endregion
