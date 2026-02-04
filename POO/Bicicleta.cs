@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace POO //Lidando com herança
 {
-    internal class Bicicleta : Veiculo
+    sealed class Bicicleta : Veiculo // Classe selada que não pode ser herdada
     {
         public override void Acelerar() //Implementando o método abstrato da classe base
         {
