@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace POO //Classe base para herança
 {
-    internal class Veiculo
+    abstract class Veiculo
     {
         public string Cor { get; set; }
         public string Marca { get; set; }
 
-        public void Acelerar()
-        {
-            Console.WriteLine("Acelerou!");
-        }
+        public abstract void Acelerar(); //Método abstrato obriga as classes derivadas a implementá-lo
+
+
+
         public void Parar()
         {
             Console.WriteLine("Parou!");

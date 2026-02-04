@@ -25,12 +25,18 @@ Console.WriteLine($"Saldo: {Conta.Saldo}" );
 
 #region Herança
 
-    //Carro carro = new Carro();
-    //Bicicleta bicicleta = new Bicicleta();
-    //carro.LigarMotor();
-    //bicicleta.Pedalar();
+//Carro carro = new Carro();
+//Bicicleta bicicleta = new Bicicleta();
+//carro.LigarMotor();
+//bicicleta.Pedalar();
 
-    //carro.Acelerar();
-    //bicicleta.Parar();
+//carro.Acelerar();
+//bicicleta.Parar();
 
+// Abstração
+//Veiculo veiculo1 = new Veiculo();
+Carro carro = new Carro();
+Bicicleta bicicleta = new Bicicleta();
+carro.Acelerar();
+bicicleta.Acelerar();
 #endregion

@@ -8,10 +8,14 @@ namespace POO //Lidando com herança
 {
     internal class Bicicleta : Veiculo
     {
-       
+        public override void Acelerar() //Implementando o método abstrato da classe base
+        {
+            Console.WriteLine("Acelerando a bicicleta!");
+        }
+
         public void Pedalar()
         {
-            Console.WriteLine("Pedalandos!");
+            Console.WriteLine("Pedalando!");
         } 
        
         

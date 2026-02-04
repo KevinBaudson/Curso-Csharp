@@ -10,6 +10,11 @@ namespace POO
     {
         public int  VelocidadeMaxima { get; set; }
 
+        public override void Acelerar() //Implementando o método abstrato da classe base
+        {
+            Console.WriteLine("O carro está acelerando");
+        }
+
         public void LigarMotor()
         {
             Console.WriteLine("O carro ligou o motor!");
